@@ -255,4 +255,12 @@ void loop() {
   Serial.print(humidity);
   Serial.println(" %");
 }
+
+
+
+
+
+
+https://www.tinkercad.com/things/3vKT7fJJINl/editel?sharecode=I3Ions3TAwCcbpw51_wMejXXpAVGVKp6-evPnNCn6uQ
+
 ----------------------------------------------------------------------------------------------
